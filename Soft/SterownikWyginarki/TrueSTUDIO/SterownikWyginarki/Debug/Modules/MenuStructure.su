@@ -1,0 +1,9 @@
+MenuStructure.c:19:6:Default_Loop	0	static
+MenuStructure.c:25:6:AB_Loop	8	static
+MenuStructure.c:28:6:AC_Loop	8	static
+MenuStructure.c:31:6:AS_Loop	8	static
+MenuStructure.c:57:6:Mx_Loop	16	static
+MenuStructure.c:38:9:GetMX	8	static
+MenuStructure.c:44:6:Mx_F_Loop	8	static
+MenuStructure.c:48:6:Mx_R_Loop	8	static
+MenuStructure.c:52:6:Mx_LP_Loop	8	static

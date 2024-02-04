@@ -1,0 +1,2 @@
+eeprom24xx.c:5:6:EEPROM24XX_Save	56	static
+eeprom24xx.c:22:6:EEPROM24XX_Load	24	static

@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp
+"lcd\startup_stm32f446xx.o"
+"lcd\stm32f4xx_hal_flash_ramfunc.o"
+"lcd\stm32f4xx_hal_rcc_ex.o"
+"lcd\stm32f4xx_hal_pwr_ex.o"
+"lcd\stm32f4xx_hal_cortex.o"
+"lcd\stm32f4xx_hal_gpio.o"
+"lcd\stm32f4xx_hal_flash.o"
+"lcd\stm32f4xx_hal_tim.o"
+"lcd\stm32f4xx_hal_dma_ex.o"
+"lcd\stm32f4xx_hal.o"
+"lcd\stm32f4xx_hal_rcc.o"
+"lcd\stm32f4xx_hal_flash_ex.o"
+"lcd\stm32f4xx_hal_i2c.o"
+"lcd\stm32f4xx_hal_tim_ex.o"
+"lcd\stm32f4xx_hal_i2c_ex.o"
+"lcd\stm32f4xx_hal_dma.o"
+"lcd\stm32f4xx_hal_pwr.o"
+"lcd\system_stm32f4xx.o"
+"lcd\main.o"
+"lcd\stm32f4xx_hal_msp.o"
+"lcd\stm32f4xx_it.o"
+"lcd\i2c-lcd.o"
+--library_type=microlib --strict --scatter "lcd\lcd.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "lcd.map" -o lcd\lcd.axf

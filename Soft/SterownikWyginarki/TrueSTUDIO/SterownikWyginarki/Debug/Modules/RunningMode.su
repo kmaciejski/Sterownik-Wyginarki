@@ -1,0 +1,9 @@
+RunningMode.c:132:6:OnMemoryBtnClick	8	static
+RunningMode.c:52:6:Machine_DeInit	8	static
+RunningMode.c:60:6:Machine_Init	8	static
+RunningMode.c:74:6:Machine_Bazuj	8	static
+RunningMode.c:79:6:Machine_Cofaj	8	static
+RunningMode.c:87:6:Machine_Wyginaj	8	static
+RunningMode.c:100:6:OnMachineBtnClick	8	static
+RunningMode.c:170:6:RunningMode_ISR_Process	8	static
+RunningMode.c:211:6:Running_Loop	64	static

@@ -1,0 +1,9 @@
+Buttons.c:15:22:Buttons_GetState	0	static
+Buttons.c:22:6:Buttons_Init	16	static
+Buttons.c:40:6:Buttons_Process	32	static
+Buttons.c:97:6:Buttons_ISR_Process	8	static
+Buttons.c:128:6:Buttons_SetClickCallback	8	static
+Buttons.c:139:6:Buttons_RemoveClickCallback	0	static
+Buttons.c:149:6:Buttons_EnableAutorepetition	0	static
+Buttons.c:159:6:Buttons_DisableAutorepetition	0	static
+Buttons.c:170:9:Buttons_IsAutorepetitionClick	0	static

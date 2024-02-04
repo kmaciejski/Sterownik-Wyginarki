@@ -1,0 +1,3 @@
+SN74LS166.c:16:13:SN74LS166_Init	16	static
+SN74LS166.c:32:6:_delay	0	static
+SN74LS166.c:40:6:SN74LS166_Read	32	static

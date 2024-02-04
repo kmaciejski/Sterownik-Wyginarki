@@ -1,0 +1,9 @@
+MenuControls.c:44:6:MC_ISR_Process	0	static
+MenuControls.c:63:6:MC_Init	16	static
+MenuControls.c:76:6:MC_DeInit	8	static
+MenuControls.c:91:6:OnMCBtnClick	8	static
+MenuControls.c:148:6:MC_drawSwitch	16	static
+MenuControls.c:180:6:MC_drawSwitchLP	16	static
+MenuControls.c:211:6:MC_drawAngleSelector	16	static
+MenuControls.c:243:6:MC_drawTimeSelector	16	static
+MenuControls.c:275:6:MC_drawAutoModeSelector	32	static

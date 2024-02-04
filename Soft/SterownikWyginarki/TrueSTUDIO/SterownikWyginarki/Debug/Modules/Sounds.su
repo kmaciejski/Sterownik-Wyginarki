@@ -1,0 +1,6 @@
+Sounds.c:38:13:Sounds_Buzzer_On	16	static
+Sounds.c:19:6:Sounds_Init	0	static
+Sounds.c:51:6:Sounds_ISR_Process	8	static
+Sounds.c:66:6:PlayBeep1	8	static
+Sounds.c:76:6:PlayBeep2	8	static
+Sounds.c:85:6:PlayBeep3	8	static
